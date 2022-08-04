@@ -1,0 +1,375 @@
+StartingStation,EndingStation,TubeLine
+Harrow & Wealdstone,Kenton,Bakerloo
+Kenton,South Kenton,Bakerloo
+South Kenton,North Wembley,Bakerloo
+North Wembley,Wembley Central,Bakerloo
+Wembley Central,Stonebridge Park,Bakerloo
+Stonebridge Park,Harlesden,Bakerloo
+Harlesden,Willesden Junction,Bakerloo
+Willesden Junction,Kensal Green,Bakerloo
+Kensal Green,Queen's Park,Bakerloo
+Queen's Park,Kilburn Park,Bakerloo
+Kilburn Park,Maida Vale,Bakerloo
+Maida Vale,Warwick Avenue,Bakerloo
+Warwick Avenue,Paddington,Bakerloo
+Paddington,Edgware Road,Bakerloo
+Edgware Road,Marylebone,Bakerloo
+Marylebone,Baker Street,Bakerloo
+Baker Street,Regent's Park,Bakerloo
+Regent's Park,Oxford Circus,Bakerloo
+Oxford Circus,Piccadilly Circus,Bakerloo
+Piccadilly Circus,Charing Cross,Bakerloo
+Charing Cross,Embankment,Bakerloo
+Embankment,Waterloo,Bakerloo
+Waterloo,Lambeth North,Bakerloo
+Lambeth North,Elephant & Castle,Bakerloo
+West Ruislip,Ruislip Gardens,Central
+Ruislip Gardens,South Ruislip,Central
+South Ruislip,Northolt,Central
+Northolt,Greenford,Central
+Greenford,Perivale,Central
+Perivale,Hanger Lane,Central
+Hanger Lane,North Acton,Central
+Ealing Broadway,West Acton,Central
+West Acton,North Acton,Central
+North Acton,East Acton,Central
+East Acton,White City,Central
+White City,Shepherd's Bush,Central
+Shepherd's Bush,Holland Park,Central
+Holland Park,Notting Hill Gate,Central
+Notting Hill Gate,Queensway,Central
+Queensway,Lancaster Gate,Central
+Lancaster Gate,Marble Arch,Central
+Marble Arch,Bond Street,Central
+Bond Street,Oxford Circus,Central
+Oxford Circus,Tottenham Court Road,Central
+Tottenham Court Road,Holborn,Central
+Holborn,Chancery Lane,Central
+Chancery Lane,St. Paul's,Central
+St. Paul's,Bank/Monument,Central
+Bank/Monument,Liverpool Street,Central
+Liverpool Street,Bethnal Green,Central
+Bethnal Green,Mile End,Central
+Mile End,Stratford,Central
+Stratford,Leyton,Central
+Leyton,Leytonstone,Central
+Leytonstone,Wanstead,Central
+Wanstead,Redbridge,Central
+Redbridge,Gants Hill,Central
+Gants Hill,Newbury Park,Central
+Newbury Park,Barkingside,Central
+Barkingside,Fairlop,Central
+Fairlop,Hainault,Central
+Hainault,Grange Hill,Central
+Grange Hill,Chigwell,Central
+Chigwell,Roding Valley,Central
+Roding Valley,Woodford,Central
+Leytonstone,Snaresbrook,Central
+Snaresbrook,South Woodford,Central
+South Woodford,Woodford,Central
+Woodford,Buckhurst Hill,Central
+Buckhurst Hill,Loughton,Central
+Loughton,Debden,Central
+Debden,Theydon Bois,Central
+Theydon Bois,Epping,Central
+Paddington,Edgware Road,Circle
+Edgware Road,Baker Street,Circle
+Baker Street,Great Portland Street,Circle
+Great Portland Street,Euston Square,Circle
+Euston Square,King's Cross St. Pancras,Circle
+King's Cross St. Pancras,Farringdon,Circle
+Farringdon,Barbican,Circle
+Barbican,Moorgate,Circle
+Moorgate,Liverpool Street,Circle
+Liverpool Street,Aldgate,Circle
+Aldgate,Tower Hill,Circle
+Tower Hill,Bank/Monument,Circle
+Bank/Monument,Cannon Street,Circle
+Cannon Street,Mansion House,Circle
+Mansion House,Blackfriars,Circle
+Blackfriars,Temple,Circle
+Temple,Embankment,Circle
+Embankment,Westminster,Circle
+Westminster,St. James' Park,Circle
+St. James' Park,Victoria,Circle
+Victoria,Sloane Square,Circle
+Sloane Square,South Kensington,Circle
+South Kensington,Gloucester Road,Circle
+Gloucester Road,High Street Kensington,Circle
+High Street Kensington,Notting Hill Gate,Circle
+Notting Hill Gate,Bayswater,Circle
+Bayswater,Paddington,Circle
+Ealing Broadway,Ealing Common,District
+Ealing Common,Acton Town,District
+Acton Town,Chiswick Park,District
+Chiswick Park,Turnham Green,District
+Wimbledon,Wimbledon Park,District
+Wimbledon Park,Southfields,District
+Southfields,East Putney,District
+East Putney,Putney Bridge,District
+Putney Bridge,Parsons Green,District
+Parsons Green,Fulham Broadway,District
+Fulham Broadway,West Brompton,District
+West Brompton,Earls' Court,District
+Olympia,Earls' Court,District
+Edgware Road,Paddington,District
+Paddington,Bayswater,District
+Bayswater,Notting Hill Gate,District
+Notting Hill Gate,High Street Kensington,District
+High Street Kensington,Earls' Court,District
+Richmond,Kew Gardens,District
+Kew Gardens,Gunnersbury,District
+Gunnersbury,Turnham Green,District
+Turnham Green,Stamford Brook,District
+Stamford Brook,Ravenscourt Park,District
+Ravenscourt Park,Hammersmith,District
+Hammersmith,Barons Court,District
+Hammersmith,Barons Court,District
+Barons Court,West Kensington,District
+West Kensington,Earls' Court,District
+Earls' Court,Gloucester Road,District
+Gloucester Road,South Kensington,District
+South Kensington,Sloane Square,District
+Sloane Square,Victoria,District
+Victoria,St. James' Park,District
+St. James' Park,Westminster,District
+Westminster,Embankment,District
+Embankment,Temple,District
+Temple,Blackfriars,District
+Blackfriars,Mansion House,District
+Mansion House,Cannon Street,District
+Cannon Street,Bank/Monument,District
+Bank/Monument,Tower Hill,District
+Tower Hill,Aldgate East,District
+Aldgate East,Whitechapel,District
+Whitechapel,Stepney Green,District
+Stepney Green,Mile End,District
+Mile End,Bow Road,District
+Bow Road,Bromley-by-Bow,District
+Bromley-by-Bow,West Ham,District
+West Ham,Plaistow,District
+Plaistow,Upton Park,District
+Upton Park,East Ham,District
+East Ham,Barking,District
+Barking,Upney,District
+Upney,Becontree,District
+Becontree,Dagenham Heathway,District
+Dagenham Heathway,Dagenham East,District
+Dagenham East,Elm Park,District
+Elm Park,Hornchurch,District
+Hornchurch,Upminster Bridge,District
+Upminster Bridge,Upminster,District
+Shoreditch,Whitechapel,East London
+Whitechapel,Shadwell,East London
+Shadwell,Wapping,East London
+Wapping,Rotherhithe,East London
+Rotherhithe,Canada Water,East London
+Canada Water,Surrey Quays,East London
+Surrey Quays,New Cross Gate,East London
+Surrey Quays,New Cross,East London
+Hammersmith,Goldhawk Road,Hammersmith & City
+Hammersmith,Goldhawk Road,Hammersmith & City
+Goldhawk Road,Shepherd's Bush,Hammersmith & City
+Shepherd's Bush,Latimer Road,Hammersmith & City
+Latimer Road,Ladbroke Grove,Hammersmith & City
+Ladbroke Grove,Westbourne Park,Hammersmith & City
+Westbourne Park,Royal Oak,Hammersmith & City
+Royal Oak,Paddington,Hammersmith & City
+Paddington,Edgware Road,Hammersmith & City
+Edgware Road,Baker Street,Hammersmith & City
+Baker Street,Great Portland Street,Hammersmith & City
+Great Portland Street,Euston Square,Hammersmith & City
+Euston Square,King's Cross St. Pancras,Hammersmith & City
+King's Cross St. Pancras,Farringdon,Hammersmith & City
+Farringdon,Barbican,Hammersmith & City
+Barbican,Moorgate,Hammersmith & City
+Moorgate,Liverpool Street,Hammersmith & City
+Liverpool Street,Aldgate East,Hammersmith & City
+Aldgate East,Whitechapel,Hammersmith & City
+Whitechapel,Stepney Green,Hammersmith & City
+Stepney Green,Mile End,Hammersmith & City
+Mile End,Bow Road,Hammersmith & City
+Bow Road,Bromley-by-Bow,Hammersmith & City
+Bromley-by-Bow,West Ham,Hammersmith & City
+West Ham,Plaistow,Hammersmith & City
+Plaistow,Upton Park,Hammersmith & City
+Upton Park,East Ham,Hammersmith & City
+East Ham,Barking,Hammersmith & City
+Stanmore,Canons Park,Jubilee
+Canons Park,Queensbury,Jubilee
+Queensbury,Kingsbury,Jubilee
+Kingsbury,Wembley Park,Jubilee
+Wembley Park,Neasden,Jubilee
+Neasden,Dollis Hill,Jubilee
+Dollis Hill,Willesden Green,Jubilee
+Willesden Green,Kilburn,Jubilee
+Kilburn,West Hampstead,Jubilee
+West Hampstead,Finchley Road,Jubilee
+Finchley Road,Swiss Cottage,Jubilee
+Swiss Cottage,St. John's Wood,Jubilee
+St. John's Wood,Baker Street,Jubilee
+Baker Street,Bond Street,Jubilee
+Bond Street,Green Park,Jubilee
+Green Park,Westminster,Jubilee
+Westminster,Waterloo,Jubilee
+Waterloo,Southwark,Jubilee
+Southwark,London Bridge,Jubilee
+London Bridge,Bermondsey,Jubilee
+Bermondsey,Canada Water,Jubilee
+Canada Water,Canary Wharf,Jubilee
+Canary Wharf,North Greenwich,Jubilee
+North Greenwich,Canning Town,Jubilee
+Canning Town,West Ham,Jubilee
+West Ham,Stratford,Jubilee
+Aldgate,Liverpool Street,Metropolitan
+Liverpool Street,Moorgate,Metropolitan
+Moorgate,Barbican,Metropolitan
+Barbican,Farringdon,Metropolitan
+Farringdon,King's Cross St. Pancras,Metropolitan
+King's Cross St. Pancras,Euston Square,Metropolitan
+Euston Square,Great Portland Street,Metropolitan
+Great Portland Street,Baker Street,Metropolitan
+Baker Street,Finchley Road,Metropolitan
+Finchley Road,Wembley Park,Metropolitan
+Wembley Park,Preston Road,Metropolitan
+Preston Road,Northwick Park,Metropolitan
+Northwick Park,Harrow-on-the-Hill,Metropolitan
+Harrow-on-the-Hill,North Harrow,Metropolitan
+North Harrow,Pinner,Metropolitan
+Pinner,Northwood Hills,Metropolitan
+Northwood Hills,Northwood,Metropolitan
+Northwood,Moor Park,Metropolitan
+Harrow-on-the-Hill,West Harrow,Metropolitan
+West Harrow,Rayners Lane,Metropolitan
+Rayners Lane,Eastcote,Metropolitan
+Eastcote,Ruislip Manor,Metropolitan
+Ruislip Manor,Ruislip,Metropolitan
+Ruislip,Ickenham,Metropolitan
+Ickenham,Hillingdon,Metropolitan
+Hillingdon,Uxbridge,Metropolitan
+Moor Park,Croxley,Metropolitan
+Croxley,Watford,Metropolitan
+Moor Park,Rickmansworth,Metropolitan
+Rickmansworth,Chorleywood,Metropolitan
+Chorleywood,Chalfont & Latimer,Metropolitan
+Chalfont & Latimer,Chesham,Metropolitan
+Chesham,Amersham,Metropolitan
+Mill Hill East,Finchley Central,Northern
+High Barnet,Totteridge & Whetstone,Northern
+Totteridge & Whetstone,Woodside Park,Northern
+Woodside Park,West Finchley,Northern
+West Finchley,Finchley Central,Northern
+Finchley Central,East Finchley,Northern
+East Finchley,Highgate,Northern
+Highgate,Archway,Northern
+Archway,Tufnell Park,Northern
+Tufnell Park,Kentish Town,Northern
+Kentish Town,Camden Town,Northern
+Edgware,Burnt Oak,Northern
+Burnt Oak,Colindale,Northern
+Colindale,Hendon Central,Northern
+Hendon Central,Brent Cross,Northern
+Brent Cross,Golders Green,Northern
+Golders Green,Hampstead,Northern
+Hampstead,Belsize Park,Northern
+Belsize Park,Chalk Farm,Northern
+Chalk Farm,Camden Town,Northern
+Camden Town,Mornington Crescent,Northern
+Mornington Crescent,Euston,Northern
+Euston,Warren Street,Northern
+Warren Street,Goodge Street,Northern
+Goodge Street,Tottenham Court Road,Northern
+Tottenham Court Road,Leicester Square,Northern
+Leicester Square,Charing Cross,Northern
+Charing Cross,Embankment,Northern
+Embankment,Waterloo,Northern
+Waterloo,Kennington,Northern
+Euston,King's Cross St. Pancras,Northern
+King's Cross St. Pancras,Angel,Northern
+Angel,Old Street,Northern
+Old Street,Moorgate,Northern
+Moorgate,Bank/Monument,Northern
+Bank/Monument,London Bridge,Northern
+London Bridge,Borough,Northern
+Borough,Elephant & Castle,Northern
+Elephant & Castle,Kennington,Northern
+Kennington,Oval,Northern
+Oval,Stockwell,Northern
+Stockwell,Clapham North,Northern
+Clapham North,Clapham Common,Northern
+Clapham Common,Clapham South,Northern
+Clapham South,Balham,Northern
+Balham,Tooting Bec,Northern
+Tooting Bec,Tooting Broadway,Northern
+Tooting Broadway,Colliers Wood,Northern
+Colliers Wood,South Wimbledon,Northern
+South Wimbledon,Morden,Northern
+Cockfosters,Oakwood,Piccadilly
+Oakwood,Southgate,Piccadilly
+Southgate,Arnos Grove,Piccadilly
+Arnos Grove,Bounds Green,Piccadilly
+Bounds Green,Wood Green,Piccadilly
+Wood Green,Turnpike Lane,Piccadilly
+Turnpike Lane,Manor House,Piccadilly
+Manor House,Finsbury Park,Piccadilly
+Finsbury Park,Arsenal,Piccadilly
+Arsenal,Holloway Road,Piccadilly
+Holloway Road,Caledonian Road,Piccadilly
+Caledonian Road,King's Cross St. Pancras,Piccadilly
+King's Cross St. Pancras,Russell Square,Piccadilly
+Russell Square,Holborn,Piccadilly
+Holborn,Covent Garden,Piccadilly
+Covent Garden,Leicester Square,Piccadilly
+Leicester Square,Piccadilly Circus,Piccadilly
+Piccadilly Circus,Green Park,Piccadilly
+Green Park,Hyde Park Corner,Piccadilly
+Hyde Park Corner,Knightsbridge,Piccadilly
+Knightsbridge,South Kensington,Piccadilly
+South Kensington,Gloucester Road,Piccadilly
+Gloucester Road,Earls' Court,Piccadilly
+Earls' Court,Barons Court,Piccadilly
+Barons Court,Hammersmith,Piccadilly
+Hammersmith,Turnham Green,Piccadilly
+Hammersmith,Turnham Green,Piccadilly
+Turnham Green,Acton Town,Piccadilly
+Acton Town,South Ealing,Piccadilly
+South Ealing,Northfields,Piccadilly
+Northfields,Boston Manor,Piccadilly
+Boston Manor,Osterley,Piccadilly
+Osterley,Hounslow East,Piccadilly
+Hounslow East,Hounslow Central,Piccadilly
+Hounslow Central,Hounslow West,Piccadilly
+Hounslow West,Hatton Cross,Piccadilly
+Hatton Cross,Heathrow Terminal 3,Piccadilly
+Heathrow Terminal 4,Heathrow Terminals 1-2-3,Piccadilly
+Heathrow Terminals 1-2-3,Hatton Cross,Piccadilly
+Acton Town,Ealing Common,Piccadilly
+Ealing Common,North Ealing,Piccadilly
+North Ealing,Park Royal,Piccadilly
+Park Royal,Alperton,Piccadilly
+Alperton,Sudbury Town,Piccadilly
+Sudbury Town,Sudbury Hill,Piccadilly
+Sudbury Hill,South Harrow,Piccadilly
+South Harrow,Rayners Lane,Piccadilly
+Rayners Lane,Eastcote,Piccadilly
+Eastcote,Ruislip Manor,Piccadilly
+Ruislip Manor,Ruislip,Piccadilly
+Ruislip,Ickenham,Piccadilly
+Ickenham,Hillingdon,Piccadilly
+Hillingdon,Uxbridge,Piccadilly
+Walthamstow Central,Blackhorse Road,Victoria
+Blackhorse Road,Tottenham Hale,Victoria
+Tottenham Hale,Seven Sisters,Victoria
+Seven Sisters,Finsbury Park,Victoria
+Finsbury Park,Highbury & Islington,Victoria
+Highbury & Islington,King's Cross St. Pancras,Victoria
+King's Cross St. Pancras,Euston,Victoria
+Euston,Warren Street,Victoria
+Warren Street,Oxford Circus,Victoria
+Oxford Circus,Green Park,Victoria
+Green Park,Victoria,Victoria
+Victoria,Pimlico,Victoria
+Pimlico,Vauxhall,Victoria
+Vauxhall,Stockwell,Victoria
+Stockwell,Brixton,Victoria
+Bank/Monument,Waterloo,Waterloo & City
